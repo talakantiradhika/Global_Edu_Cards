@@ -1,9 +1,9 @@
 .card {
-  border: 1px solid #0154a8;
+  border: 2px solid #0154a8;
   border-radius: 8px;
   padding: 20px;
   margin: 20px;
-  background-color: #40aed3;
+  background-color: #f5f4ec;
   box-shadow: 0 4px 8px rgba(140, 161, 3, 0.555);
   width: 500px;
   max-width: 100%;
@@ -21,7 +21,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between; 
-  background-color: #a4f3f6;
+  background-color: #f7f5ac;
   padding-bottom: 5px;
   border-radius: 10px 10px 10px 10px;
   margin-bottom: 15px;
